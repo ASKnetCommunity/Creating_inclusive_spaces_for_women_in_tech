@@ -5,16 +5,18 @@
 ## Objectives
 * Teach #ASKnet community new skills which help enable women empowerment and support  to build networks in their communities.
 * Provide participants with concrete strategies and tools for creating inclusive spaces for women
-* Discuss best practices for maintaining women's participation in media activities and workshops
-Develop practical skills and tools for implementing these best practices in their own organizations and work
-Offer strategies for addressing the challenges faced by the women and organizations themselves
+* Discuss best practices for maintaining women's participation in media activities and workshops.
+* Develop practical skills and tools for implementing these best practices in their own organizations and work. 
+* Offer strategies for addressing the challenges faced by the women and organizations themselves
 
-## Co-creation of the three Questions What, Why and How:
-the session is going for to co-create, we will treat the what, the why it matters and the more importantly we want to share the how
+## Co-Creation of Key Questions for Empowering Women and Building Inclusive Spaces
+
+During this session, a collaborative process will be employed to generate three key questions: 'What,' 'Why,' and 'How.' The session will delve into the 'what,' focusing on the core content or subject matter. It will address the 'why' to emphasize the significance and relevance of this content. Most importantly, the primary focus will be on sharing the 'how,' offering concrete strategies and actionable steps to empower and support women within their communities and facilitate the creation of inclusive spaces.
 
 ### The What?
 
 #### What comes to mind first when you think about this topic and your work? 
+**Answers from the webinar participants:**
 * What do I think of first? Great stories, great experiences that want and need to be shared
 * it´s giving everyone sitting on the table and letting their voices be heared 
 * creating room for equity 
@@ -27,7 +29,7 @@ the session is going for to co-create, we will treat the what, the why it matter
 #### Why does women inclusion in tech and media spaces matters?
 
 <p align="center" width="100%">
-  <img width="800" alt="tag cloud - chat answers" src="images/tag_cloud.png">
+  <img width="700" alt="tag cloud - chat answers" src="images/tag_cloud.png">
 </p>
 <p align="center" width="100%">
   <em>Answers from the participant in form of a tag cloud</em></p>
@@ -35,7 +37,7 @@ the session is going for to co-create, we will treat the what, the why it matter
 #### How women inclusive are the programs of the participants of the webinar?
 
 <p align="center" width="100%">
-  <img width="800" alt="tag cloud - chat answers" src="images/emoji_poll.png">
+  <img width="700" alt="tag cloud - chat answers" src="images/emoji_poll.png">
 </p>
 <p align="center" width="100%">
   <em>Answers from the participant in form of a diagram</em></p>
@@ -45,3 +47,39 @@ the session is going for to co-create, we will treat the what, the why it matter
 #### What can/should we be doing? 
 
 #### What resources/tools do we need? 
+
+## Inequality Triangle 
+
+_"The greates poverty that anyone can ever have is lack of access."_
+by the unkonw cousin 
+
+Inclusion always means access and opportunities. Everyone is seeking in it´s programs, projects, etc. to have as much inclusion as possilbe, but a lack of know-how can create problems. The tool Gender Inequality Triangle is here to overcome the lack of inclusion.
+
+<p align="center" width="100%">
+  <img width=100% alt="tag cloud - chat answers" src="images/inequality_triangle.jpg">
+</p>
+<p align="center" width="100%">
+  <em>The Inequality Triangle</em></p>
+
+It consist of three sites and has four simple steps that one can take.
+
+**1. Scan:**  
+   Scan the the room/ to ensure representativeness. Look around to check if we are all here (this creates self-awareness).  
+   "Is everyone here? Are we all represented?"
+   "Do we have women from minority / ethnicity groups? Are they represented?"
+
+**2. Awarenss:**  
+   1.  Create corporate awareness (the fact that you know that not everyone is represented does not mean that the next person is aware). You do this by asking the next person if we are all represented.  
+   "Neighbor are you aware that not everyone is here? There are people who are missing." 
+
+   2. Come up with solutions to address gender inequality.  
+   "Ask your employee to reach out to people who aren`t part of the program / course / etc. yet." 
+     
+**3. Solutioning:**   
+   Actioning - actually putting the solutions into actions.
+    “Finding a hundred solutions and implementing none is an exercise in futility” (Warren Buffett)  
+    
+Reference: [Gender inequality starts in the home | Matshepo Msibi | TEDxLytteltonWomen](https://www.youtube.com/watch?v=yqF5C0xU-f4)
+
+Homework: Think about your work / projects / courses / etc.
+
