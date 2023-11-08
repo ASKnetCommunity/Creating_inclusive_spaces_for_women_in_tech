@@ -33,5 +33,9 @@ In the end, Participants engaged in a ‘role play’ exercise about the challen
 
 **Kudzai:** _“Every methodology we are using, all of the tools we are using in this particular program are all part of the learning. Use them. Use them even if you repeat them until your community knows them, use them. Yes, always say failure is not a problem at all. Try to fail but don't fail to try. I think that's a nice way to end the session”._
 
+The webinar consisted of three recorded sessions, which can be found here:  
+* [Session 1](https://youtu.be/yaRG2TEdWhY)
+* [Session 2](https://youtu.be/vHWmjZjdiVs)
+* [Session 4](https://youtu.be/f47hwvAgxeE)
 
 ![ASKnet Logo](/images/asknet-logo.png)
