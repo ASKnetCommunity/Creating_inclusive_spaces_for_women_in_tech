@@ -1,7 +1,5 @@
 # Title of the Resource / Guide / etc.
 
-
-
 ## Objectives
 * Teach #ASKnet community new skills which help enable women empowerment and support  to build networks in their communities.
 * Provide participants with concrete strategies and tools for creating inclusive spaces for women
@@ -17,12 +15,12 @@ During this session, a collaborative process will be employed to generate three 
 
 #### What comes to mind first when you think about this topic and your work? 
 **Answers from the webinar participants:**
-* What do I think of first? Great stories, great experiences that want and need to be shared
-* it´s giving everyone sitting on the table and letting their voices be heared 
-* creating room for equity 
-* share stories and experiences 
-* it´s all about inclusivity and making sure the obstacles that may be in the way of woman in tech and media are removed 
-* what comes to mind is not just including women, but making sure that they are actually empowered and bringing results to the tabel
+* What do I think of first? Great stories, great experiences that want and need to be shared.
+* It´s giving everyone sitting on the table and letting their voices be heared 
+* Creating room for equity.
+* Share stories and experiences. 
+* It´s all about inclusivity and making sure the obstacles that may be in the way of woman in tech and media are removed. 
+* What comes to mind is not just including women, but making sure that they are actually empowered and bringing results to the tabel.
 
 ### The Why?
 
@@ -50,10 +48,10 @@ During this session, a collaborative process will be employed to generate three 
 
 ## Inequality Triangle 
 
-_"The greates poverty that anyone can ever have is lack of access."_
-by the unkonw cousin 
+_"The greates poverty that anyone can ever have is lack of access."_  
+by the unknown cousin 
 
-Inclusion always means access and opportunities. Everyone is seeking in it´s programs, projects, etc. to have as much inclusion as possilbe, but a lack of know-how can create problems. The tool Gender Inequality Triangle is here to overcome the lack of inclusion.
+Inclusion inherently entails providing access and opportunities. In various programs and projects, the aspiration is always to maximize inclusion. However, the absence of the necessary expertise can often lead to challenges. This is where the Gender Inequality Triangle tool comes into play, offering a solution to bridge the gap and enhance inclusivity.
 
 <p align="center" width="100%">
   <img width=100% alt="tag cloud - chat answers" src="images/inequality_triangle.jpg">
@@ -83,3 +81,4 @@ Reference: [Gender inequality starts in the home | Matshepo Msibi | TEDxLyttelto
 
 Homework: Think about your work / projects / courses / etc.
 
+The recording of the first webinar session can be found [here](https://www.youtube.com/watch?v=yaRG2TEdWhY)
