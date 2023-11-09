@@ -20,7 +20,7 @@ Find the video with Owilla Abiro Mercy [here](https://www.youtube.com/watch?v=vH
 
 
 ## Exercise 
-Therefore participants need pen and paper. Please finish the following statements: 
+Please finish the following statements: 
 * Before we started I did not know _____ .(1 minute)
 * Now I have learnt _____ . (1 minute)
 * Complete the Inequality Triangle [S.A.M.A] (4 minutes)
