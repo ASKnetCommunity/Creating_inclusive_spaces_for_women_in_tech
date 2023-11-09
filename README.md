@@ -19,7 +19,7 @@ The structure and format of the webinars were as follows:
 ### Session 1: Introduction - 21st June (1 hour)
 The first session of "Creating Inclusive Spaces for Women in Tech and Media" commenced with thought-provoking questions posed by Kudzai M. Mubaiwa. Participants were prompted to reflect on their initial thoughts about the topic and its relevance to their work. They also engaged in exploring the importance of women's inclusion in tech and media through a word association exercise. The session further delved into assessing the inclusivity of participants' programs and activities, encouraging introspection on existing practices. 
 
-The second half of the session was led by Soneni Mafu, who introduced the concept of the "Inequality Triangle." Participants were encouraged to examine the representation within their respective spaces, considering diversity in terms of gender, disability, ethnicity, and other dimensions. The importance of raising awareness about underrepresented groups and their opportunities was emphasized, leading to discussions on addressing gender inequality and formulating tangible solutions. The sessionconcluded with a call to action, urging participants to assess the inclusivity of their workspaces and community activities.
+The second half of the session was led by Soneni Mafu, who introduced the concept of the "Inequality Triangle." Participants were encouraged to examine the representation within their respective spaces, considering diversity in terms of gender, disability, ethnicity, and other dimensions. The importance of raising awareness about underrepresented groups and their opportunities was emphasized, leading to discussions on addressing gender inequality and formulating tangible solutions. The session concluded with a call to action, urging participants to assess the inclusivity of their workspaces and community activities.
 
 ### Session 2: Recap, guest speaker case study, hands-on exercise 21 June (1 hour) 
 
@@ -42,7 +42,7 @@ The webinar consisted of three recorded sessions for participants to return to, 
 * [Session 4](https://youtu.be/f47hwvAgxeE)
 
 Links to the related documents:
-* [Empowering Women in Tech and Media: Strategies, Discussions, and Co-Creatio]()
+* [Empowering Women in Tech and Media: Strategies, Discussions, and Co-Creatio](empowering_women_strategies_discussions_co-creation.md)
 * [Case Study: Inclusive Spaces for Women with Owilla Abiro Mercy](case_study_inclusive_spaces.md)
 
 
