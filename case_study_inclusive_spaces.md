@@ -15,14 +15,12 @@ The organization shifted its approach from a business-oriented model to communit
 
 The presentation of Owilla Abiro Mercys work was followed by a Questions and Answers session with the participants of the webinar.  
 
-Find the video with Owilla Abiro Mercy [here](https://www.youtube.com/watch?v=vHWmjZjdiVs) (start: 10:55 min.).
+Find the video with Owilla Abiro Mercy [here](https://www.youtube.com/watch?v=vHWmjZjdiVs).  
+(Start: 10:55 min.)
 
 
 ## Exercise 
-Therefore participants need pen and paper.
-
+Therefore participants need pen and paper. Please finish the following statements: 
 * Before we started I did not know _____ .(1 minute)
 * Now I have learnt _____ . (1 minute)
 * Complete the Inequality Triangle [S.A.M.A] (4 minutes)
-
-Offline, with team, discuss, type, email or submit for discussion at next meeting which will be on……..(lets decide now)
