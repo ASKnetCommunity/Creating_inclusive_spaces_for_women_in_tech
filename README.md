@@ -42,7 +42,8 @@ The webinar consisted of three recorded sessions for participants to return to, 
 * [Session 4](https://youtu.be/f47hwvAgxeE)
 
 Links to the related documents:
-
+* [Empowering Women in Tech and Media: Strategies, Discussions, and Co-Creatio]()
+* [Case Study: Inclusive Spaces for Women with Owilla Abiro Mercy](case_study_inclusive_spaces.md)
 
 
 
