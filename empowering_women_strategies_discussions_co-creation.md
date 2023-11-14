@@ -116,6 +116,8 @@ To enhance participation in a Community of Practice, the following toolbox eleme
 
 ## #ASKnet Toolbox of Inclusivity Tools:
 
+The following tool box was developed within a [**role play**](https://www.youtube.com/watch?v=f47hwvAgxeE) (starting at 19:10 min.) during the webinar.
+
  CHALLENGE    | SOLUTION | PRACTICAL STEPS |
 | -------- | ------- | ------- |
 |  Women have no access to  meeting places. | Meet where many of them are already gathered. | Secure an already available host/ess in the community. Go to places women fetch water, do laundry. |
