@@ -18,6 +18,17 @@ The presentation of Owilla Abiro Mercys work was followed by a Questions and Ans
 Find the video with Owilla Abiro Mercy [here](https://www.youtube.com/watch?v=vHWmjZjdiVs).  
 (Start: 10:55 min.)
 
+## Key insights from the exchange include:
+
+* Cultural barriers, particularly in rural areas, present challenges for women's participation in public meetings. Dress codes are also policed in such settings. It is imperative to be mindful of these cultural nuances and align strategies accordingly.  
+  
+* Funding from donors tends to be limited, especially as many community activities start on a small scale. Despite the potential for high impact, partners often have higher funding thresholds.  
+  
+* Initiatives often face difficulties in garnering support once launched. In some cases, men may take the forefront, having access to resources but lacking genuine passion for the work.
+   
+* Collaborating with gatekeepers or community leaders has proven to be a successful model that can be replicated. They play a crucial role in mobilizing support and ensuring political correctness.
+   
+* Leveraging community members as local donors has shown effectiveness. They contribute in-kind support and provide resources such as workspace, equipment, and Wi-Fi.
 
 ## Exercise 
 Please finish the following statements: 

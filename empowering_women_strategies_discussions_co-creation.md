@@ -87,3 +87,41 @@ Complete the Inequality Triangle [S.A.M.A]
 * Formulate practical solutions and actionable steps aligned with your awareness-raising goals, contributing positively to the community or cause.
 
 The recording of the first webinar session can be found [here](https://www.youtube.com/watch?v=yaRG2TEdWhY)
+
+## Community of Practice
+
+<p align="center" width="100%">
+  <img width=800px alt="Community of Practice" src="images/community_practice.png">
+</p>
+<p align="center" width="100%">
+  <em>Community of Practice</em></p>
+
+A Community of Practice comprises three essential elements:
+
+* **Domain:**  
+  This involves a group of individuals sharing a common interest. For instance, consider fans of the English football club Liverpool. These fans, easily identified by their red jerseys, unite under the hashtag #ynwa (acronym for "you never walk alone") on social media.
+
+* **Community:**  
+  This represents a group of individuals with a shared objective of improvement, exemplified by groups like #ASKnet.
+
+* **Practice:**  
+  Within this community, there exists an opportunity for individuals to exchange experiences.
+
+To enhance participation in a Community of Practice, the following toolbox elements should be applied: 
+* Individual / Institutional Brainstorming from lived experiences
+* Community Sharing – Case Studies and Scenarios
+* Collecting and collating experiences 
+* Expert Guidance / Intervention
+* ToolBox Development + Additional Resources
+
+## #ASKnet Toolbox of Inclusivity Tools:
+
+ CHALLENGE    | SOLUTION | PRACTICAL STEPS |
+| -------- | ------- | ------- |
+|  Women have no access to  meeting places. | Meet where many of them are already gathered. | Secure an already available host/ess in the community. Go to places women fetch water, do laundry. |
+| Resources / funding is scarce. | Accept in kind donations. Work with community based  partners. | Openly request for venues, stationery, refreshments, internet,  equipment. Partner with other organizations|
+| Women cannot attend events due to socialization of community. | Let community leader open  doors for you. | Lobby existing community leaders. |
+| Women attend once and do not return. | Follow up and send home material. Co-create content with participants. | Use sign in details to contact them. Develop a buddy system so they  can be accountable and supported. Print material for home activities. Offer hybrid sessions – in person and online. Allow community members to lead  some sessions. |
+
+
+The recording of the last webinar session can be found [here](https://www.youtube.com/watch?v=f47hwvAgxeE)
