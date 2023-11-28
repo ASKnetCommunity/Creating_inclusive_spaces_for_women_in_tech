@@ -2,10 +2,10 @@
 
 ## Objectives
 * Teach #ASKnet community new skills which help enable women empowerment and support  to build networks in their communities.
-* Provide participants with concrete strategies and tools for creating inclusive spaces for women
+* Provide participants with concrete strategies and tools for creating inclusive spaces for women.
 * Discuss best practices for maintaining women's participation in media activities and workshops.
 * Develop practical skills and tools for implementing these best practices in their own organizations and work. 
-* Offer strategies for addressing the challenges faced by the women and organizations themselves
+* Offer strategies for addressing the challenges faced by the women and organizations themselves.
 
 ## Co-Creation of Key Questions for Empowering Women and Building Inclusive Spaces
 
